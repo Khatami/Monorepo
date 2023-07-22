@@ -4,7 +4,7 @@
 ```bash
 git clone --no-checkout https://github.com/Khatami/Monorepo.git
 
-cd Mongorepo
+cd Monorepo
 
 git sparse-checkout set Ordering Basket
 
